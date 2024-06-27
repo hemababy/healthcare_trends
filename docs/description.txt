@@ -1,0 +1,9 @@
+This dataset is interesting because it provides the health system metrics in Germany from 1991 to 2022.  It contains information on the number of hospitals, hospital beds, Beds per 100000 inhabitants, number of patients, Occupancy or billing, patients per 100000, and average length of stay In addition, supporting data the set is well organized and accessible, making accessible to a wide variety of users. From this dataset, the healthcare system trends and patterns over the years could be analyzed. With this analysis, we can help in making informed decisions and policies related to the healthcare system in Germany.
+
+Research Questions:
+1. How has the number of hospital beds and beds per 100,000 inhabitants evolved in Germany since 1991?
+2. How has the number of hospitals in Germany changed over time?
+3. Is there a correlation between the average length of stay and the average occupancy of hospital beds in Germany?
+4. Are there any significant differences in hospital bed occupancy and average length of stay between years in the dataset?
+5. How occupancy rate changed over time?
+6. Trends emerged in the number of patients and patients per 100,000 inhabitants over the years?
