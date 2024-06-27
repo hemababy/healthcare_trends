@@ -1,0 +1,13 @@
+# Development environment files
+.idea/
+*.swp
+
+# Runtime environment files
+__pycache__/
+*.pyc
+
+# Secret files
+*.pem
+*.key
+*.cert
+.env
