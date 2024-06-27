@@ -1,13 +1,12 @@
 cff-version: 1.2.0
 message: Please cite this project as follows:
-Hemalatha Sekar. (2024). Healthcare Trends Analysis. Retrieved from https://gitup.uni-potsdam.de/sekar/healthcare_trends
+Hemalatha Sekar. (2024). Healthcare Trends Analysis. Retrieved from https://github.com/hemababy/healthcare_trends.git
 type: software
 title: Healthcare Trends Analysis
 authors:
 - family: sekar
   given: Hemalatha
-  affiliation: Potsdam University
 
 license: MIT
 version: 1.0
-date-released: 2024-05-11
+date-released: 2024-05-13
