@@ -37,5 +37,5 @@ Thanks to the following sources for providing the data used in this project:
 
 ## Contact Information
 
-For any questions or feedback, please contact jaiprakashgandhikalam@gmail.com.
+For any questions or feedback, don't hesitate to get in touch with hematechie@gmail.com.
 Name: Hemalatha Sekar.
